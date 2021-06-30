@@ -1,5 +1,4 @@
 if game:IsLoaded() then
-    print("Outdated...")
     wait(3)
-    game.Players.LocalPlayer:Kick(Console.log("Outdated..."))
+    game.Players.LocalPlayer:Kick("Outdated...")
 end
